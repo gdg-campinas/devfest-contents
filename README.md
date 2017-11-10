@@ -3,7 +3,7 @@
 Compilado dos slides e materiais extras das palestras do DevFest Campinas 2017
 
 |FrontEnd|BackEnd|Mobile|Mentoring & Growth|
-|:---:|:---:|:---:|:---:|
+|---|---|---|---|
 |React And Redux|Machine Learning na Recomendação de Conteúdo|Melhore sua produtividade com Playground|Como tornar seu gerente (quase) desnecessário|
 |[SPA com VueJS](https://www.slideshare.net/brolesi/spa-com-vuejs)<br><ul><li>[Github](https://github.com/brolesi/gdg-campinas-vuejs)</li></ul>|[Arquitetura Lean. MVP funcional com máxima flexibilidade e mínimo código possível.](https://docs.google.com/presentation/d/1yeSuyeCVnAJ2eZG6BSvIrcYJHNMukxeL9S6wAqyl7bk/edit?usp=drivesdk)|Firebase + ML = S2, O Retorno!|Optimizing Code for Humans|
 |[Clean code: Escrevendo Javascript profissional](https://www.slideshare.net/bielribeiro/clean-code-escrevendo-js-profissional)|Serverless Machine Learning on Google Cloud|[Desenvolvendo aplicativos nativos com React Native](https://www.slideshare.net/LusFelipeSouza1/desenvolvendo-aplicativos-nativos-com-react-native)|[Você não é o usuário. Sério. Não é.](https://www.slideshare.net/danielfurts/voc-no-o-usurio-devfest-2017)|
